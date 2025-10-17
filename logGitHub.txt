@@ -1,0 +1,17 @@
+commit 8b70ff81bb3776b162aa1247735c08b8f6feef2f
+Author: marmeow <marfernandezvidal@gmail.com>
+Date:   Fri Oct 17 17:04:48 2025 +0200
+
+    Update fitxers 2
+
+commit 8b469a66b265e05a6fb67326322ea9db27637a20
+Author: marmeow <marfernandezvidal@gmail.com>
+Date:   Fri Oct 17 17:02:25 2025 +0200
+
+    Update fitxers
+
+commit 5ce1edba9c7819b3afd617eeb52337299fce171f
+Author: Mar FV <marfernandezvidal@gmail.com>
+Date:   Fri Oct 17 16:51:33 2025 +0200
+
+    Initial commit
